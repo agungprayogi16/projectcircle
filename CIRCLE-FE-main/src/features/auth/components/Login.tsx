@@ -131,8 +131,9 @@ export default function Login() {
                   <Button
                     type='submit'
                     borderRadius={"full"}
-                    colorScheme='green'
+                    backgroundColor='black'
                     width={"100%"}
+                    color={"white"}
                     mb={3}
                     onClick={handleLogin}>
                     Login

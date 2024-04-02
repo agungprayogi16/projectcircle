@@ -72,7 +72,7 @@ export default function Register() {
                   as='h2'
                   size='3xl'
                   noOfLines={1}
-                  color={"black"}
+                  color={"white"}
                   mb={3}>
                   CIRCLE
                 </Heading>
